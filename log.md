@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
-Day 0 - forked 100-days-of-code repo
-edited the date
-fiddling where and how to code
+Day 0 - forked 100-days-of-code repo,
+edited the date,
+fiddling where and how to code.
 
 
 **Link(s) to work**
